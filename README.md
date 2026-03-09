@@ -32,6 +32,6 @@ The project focuses on creating a responsive and user-friendly experience using 
 
 You can access the website here:
 
-**https://saadmoumine.github.io/saadmoumine.musicweb.io/**
+**https://saadmoumine.github.io/samoumine.musicweb.io/**
 
 ## Project Structure
